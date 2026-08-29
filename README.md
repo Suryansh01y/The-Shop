@@ -37,7 +37,7 @@ The project focuses on building a clean React-based frontend while practicing co
 
 ## Links
 
-Live:- 
+Live:- https://the-shop-three-mu.vercel.app/
 
 Video:- 
 
@@ -54,19 +54,8 @@ Video:-
 * **React Router**
 * **Vite**
 
-### API
 
-* Product data is fetched using a REST API.
-* JavaScript `fetch()` is used for API requests.
 
-### Development Tools
-
-* Git
-* GitHub
-* VS Code
-* npm
-
----
 
 ## 📂 Project Structure
 
